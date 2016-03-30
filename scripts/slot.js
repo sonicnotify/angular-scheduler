@@ -1,5 +1,5 @@
 angular.module('slot', ['handle'])
-.directive('slot', [function() {
+.directive('slott', [function() {
     return {
         scope: {
             min: '=',
